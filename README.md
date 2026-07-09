@@ -65,16 +65,3 @@ Comparative study of **Object-Based Image Analysis** against pixel-based **Rando
 classification, applied to **Dehradun urban expansion (2016–2024)**.
 
 ---
-
-### 📊 GitHub
-
-<div align="center">
-  <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=msiirs2025&show_icons=true&hide_border=true&hide_title=true">
-  <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msiirs2025&layout=compact&hide_border=true">
-</div>
-
----
-
-<p align="center">
-  <sub>Open to collaboration on planetary remote sensing, hyperspectral analysis, and geospatial ML.</sub>
-</p>
