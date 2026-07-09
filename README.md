@@ -20,16 +20,6 @@ Chandrayaan data, and cross-validating one spacecraft's answer against another's
 My work spans **planetary surface mapping**, **urban growth analysis**, and **web-based
 geovisualisation**.
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/msiirs2025/Moon_Soil_Mineral_Mapping_Hyperspectral">
-    <img src="https://raw.githubusercontent.com/msiirs2025/Moon_Soil_Mineral_Mapping_Hyperspectral/main/docs/figures/iirs_destriped.png" width="150" alt="Dawes crater seen by Chandrayaan-2 IIRS">
-  </a>
-  <br>
-  <sub><i>Dawes crater, Mare Tranquillitatis — Chandrayaan-2 IIRS, after radiometric, thermal,<br>photometric and destriping correction. <a href="https://github.com/msiirs2025/Moon_Soil_Mineral_Mapping_Hyperspectral">See the pipeline →</a></i></sub>
-</div>
-
 ---
 
 ### 🛰️ Tech Stack
@@ -73,27 +63,6 @@ mineral maps, every step delivered as ENVI + GeoTIFF.
 
 Comparative study of **Object-Based Image Analysis** against pixel-based **Random Forest**
 classification, applied to **Dehradun urban expansion (2016–2024)**.
-
-#### 🦠 [Cholera Web Map](https://github.com/msiirs2025/web_cholera) — [**live demo ↗**](https://msiirs2025.github.io/web_cholera/)
-
-`JavaScript` · `GitHub Pages`
-
-Interactive browser-based geovisualisation of cholera data — the classic epidemiological mapping
-problem, rebuilt as a modern web map.
-
-#### 📈 [Dehradun Urban Growth Analysis](https://github.com/msiirs2025/dehradun_Urban_growth_analysis)
-
-`Python` · `LULC`
-
-Land-use / land-cover change analysis of Dehradun from 1990 onward, with GUI tooling and an
-urban growth dashboard.
-
-#### 🗂️ [EliteMappers](https://github.com/msiirs2025/EliteMappers_website)
-
-`FastAPI` · `Next.js` · `TypeScript`
-
-A student-services and project-management platform: FastAPI backend with 36 endpoints, Next.js
-client and admin dashboards, designed to deploy at zero infrastructure cost.
 
 ---
 
