@@ -39,23 +39,6 @@ geovisualisation**.
 
 ### 🌍 Featured Projects
 
-#### 🌑 [Moon Soil Mineral Mapping — Hyperspectral](https://github.com/msiirs2025/Moon_Soil_Mineral_Mapping_Hyperspectral)
-
-`Python` · `Chandrayaan-1 M³` · `Chandrayaan-2 IIRS`
-
-End-to-end lunar mineral mapping over **Dawes crater, Mare Tranquillitatis** — raw radiance to
-mineral maps, every step delivered as ENVI + GeoTIFF.
-
-- Reproduces the **ISRO CH2IIRS** chain (radiometric → thermal removal → photometric →
-  selenoreferencing → destriping) and validates it against ISRO's own reference products:
-  incidence angle exact, temperature within **0.1 K**, reflectance sub-percent.
-- Maps minerals with **SAM, SFF and SVM** on continuum-removed diagnostic bands, alongside
-  Band-Shaping-Algorithm parameter images.
-- **Result —** M³ and IIRS independently agree that Dawes crater is clinopyroxene-rich:
-  **99.6 % per-pixel agreement (SAM)** between two spacecraft sixteen years apart.
-- **Finding —** the apparent 1.9 µm "absorption band" in IIRS traces back, in the raw DN, to an
-  **instrument spectral-response artefact** rather than mineralogy — a real limit on what this
-  L1 product can support.
 
 #### 🏙️ [OBIA vs Pixel-Based Classification — Sentinel-2](https://github.com/msiirs2025/obia-vs-pixel-sentinel2)
 
